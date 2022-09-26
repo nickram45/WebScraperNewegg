@@ -1,0 +1,2 @@
+This is a simple webscraper that currently downloads all GPUs listed on neweg as a CSV file. It can be programmed to iterate through other websites and gather data.
+It also has the ability to iterate through pages of results.
